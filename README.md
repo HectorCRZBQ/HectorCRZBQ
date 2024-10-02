@@ -1,5 +1,3 @@
-# Devops
-
 ![banner](banner.png)
 
 <p align="center"> 
@@ -8,7 +6,7 @@
 
 ## About Me
 <br clear="both">
-<p align="center">My name is Héctor de la Cruz Baquero and I'm a passionate Computer Engineering student in my third year, focused on learning and growing in the tech world
+<p align="center">My name is Héctor de la Cruz Baquero and I'm a passionate Computer Engineering student in my fourth year, focused on learning and growing in the tech world.
 <br clear="both">
 <p align="center">I'm from Spain and actually studing in Spain.
  <br clear="both">
@@ -16,16 +14,14 @@
 <br clear="both">
 <p align="center">You can find me on:
 
-###
-
 <br clear="both">
 
 <div align="center">
   <a href="https://www.linkedin.com/in/h%C3%A9ctor-de-la-cruz-baquero-ba193429b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
   </a>
   <a href="https://www.instagram.com/hector.baq/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"/>
   </a>
 </div>
 
@@ -44,8 +40,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="40" alt="c logo"  />
 </div>
 
-###
-
 ## Stats
 
 <div align="center">
@@ -61,11 +55,3 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HectorCRZBQ&radius=16&theme=vue&area=false&order=5&hide_border=true&hide_title=false" height="283" alt="activity-graph graph"  />
 </div>
-
-## Music
-<br clear="both">
-<p align="center">Here you can have a look at some of my most recent listened tracks on Spotify.
-
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=92twchba1fclcu03gtamo7drh" alt="Alt text" width="450">
-</p>
