@@ -1,12 +1,8 @@
 ![banner](banner.png)
 
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/HectorCRZBQ/count.svg" />
-</p>
-
 ## About Me
 <br clear="both">
-<p align="center">My name is Héctor de la Cruz Baquero and I'm a passionate Computer Engineering student in my fourth year, focused on learning and growing in the tech world.
+<p align="center">
 <br clear="both">
 <p align="center">I'm from Spain and actually studing in Spain.
  <br clear="both">
@@ -25,21 +21,6 @@
   </a>
 </div>
 
-## Lenguajes
-
-<br clear="both">
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="40" alt="c logo"  />
-</div>
-
 ## Stats
 
 <div align="center">
@@ -49,7 +30,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=HectorCRZBQ&locale=en&mode=daily&theme=vue-dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="158" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=HectorCRZBQ&theme=tokyonight&column=4&row=2&margin-w=9&margin-h=4&no-bg=false&no-frame=false&order=4" height="158" alt="trophy graph"  />
 </div>
 
 <div align="center">
