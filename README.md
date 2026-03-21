@@ -12,7 +12,6 @@
 
 <br/>
 
-
 ## About Me
 
 I'm **Héctor de la Cruz**, a **Junior Software Engineer & DevOps** based in **Spain**, currently completing my degree while building full-stack and infrastructure projects end-to-end.
